@@ -1,3 +1,6 @@
 [submodule "WinForm_Exci"]
 	path = WinForm_Exci
 	url = https://github.com/ThaoTo2806/WinForm_Exci.git
+[submodule "exci-fe-flutter"]
+	path = exci-fe-flutter
+	url = https://github.com/Khoa15/exci-fe-flutter.git
